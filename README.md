@@ -1,4 +1,4 @@
-<h6>Assignment Questions</h6>
+<h6>Assignment Questions</h15>
 # <h2>1.Micro and Array Update </h2>
 Micro purchased an array A having N integer values. After playing it for a while, he got
 bored of it and decided to update value of its element. In one second he can increase
